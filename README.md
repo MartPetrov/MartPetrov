@@ -1,3 +1,4 @@
+![alt text](./GitImage.jpg)
 Hello 📢, I'm Martin Petrov
 ===========================
 
