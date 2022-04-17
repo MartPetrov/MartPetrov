@@ -5,14 +5,19 @@ Hello 📢, I'm Martin Petrov
 
 ### Connect with me:
 
-[![martin petrov](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-petrov-02383a221/) [![martin petrov](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gm.petrov.1) [![martin petrov](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Martinpetrow93@gmail.com)
+[![martin petrov](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-petrov-02383a221/) 
+[![martin petrov](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gm.petrov.1)
+[![martin petrov](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Martinpetrow93@gmail.com)
+
 
 ### Languages and Tools:
 
 [![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
 
-   ![martpetrov](https://github-readme-stats.vercel.app/api/top-langs?username=martpetrov&show_icons=true&locale=en&layout=compact)
+
+![martpetrov Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martpetrov&langs_count=8&show_icons=true&theme=merko)
     
-    ![martpetrov](https://github-readme-stats.vercel.app/api?username=martpetrov&show_icons=true&locale=en)
-    
-  [![martpetrov](https://github-profile-trophy.vercel.app/?username=martpetrov)](https://github.com/ryo-ma/github-profile-trophy)
+![martpetrov's GitHub stats](https://github-readme-stats.vercel.app/api?username=martpetrov&show_icons=true&theme=merko)
+
+
+[![martpetrov](https://github-profile-trophy.vercel.app/?username=martpetrov)](https://github.com/ryo-ma/github-profile-trophy)
