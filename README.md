@@ -16,7 +16,7 @@ Hello 📢, I'm Martin Petrov
 [![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
 
 
-![martpetrov Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martpetrov&langs_count=8&show_icons=true&theme=merko)
+![martpetrov Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martpetrov&langs_count=8&theme=merko)
     
 ![martpetrov's GitHub stats](https://github-readme-stats.vercel.app/api?username=martpetrov&show_icons=true&theme=merko)
 
