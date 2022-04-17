@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Martin Petrov</h1>
 <h3 align="center">Learning for Java Web Developer in SoftUni - Sofia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martpetrov" alt="martpetrov" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martpetrov" alt="martpetrov" /></a> </p>
 
 - 📫 How to reach me **Martinpetrow93@gmail.com**
 
