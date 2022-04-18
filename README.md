@@ -21,4 +21,4 @@ Hello 📢, I'm Martin Petrov
 ![martpetrov's GitHub stats](https://github-readme-stats.vercel.app/api?username=martpetrov&show_icons=true&theme=merko)
 
 
-[![martpetrov](https://github-profile-trophy.vercel.app/?username=martpetrov)](https://github.com/ryo-ma/github-profile-trophy)
+[![martpetrov](https://github-profile-trophy.vercel.app/?username=martpetrov)](https://github.com/martpetrov/github-profile-trophy)
