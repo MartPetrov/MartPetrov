@@ -32,7 +32,7 @@ Hello 📢, I'm Martin Petrov
 | <a href="https://softuni.bg/trainings/3701/java-advanced-may-2022">Java Advanced</a>                                               |                                                                                  <a href="https://softuni.bg/certificates/details/136104/595fe6f0"> Link</a> |
 | <a href="https://softuni.bg/trainings/3702/java-oop-june-2022"> Java OOP </a>|                                                                                                                                      <a href="https://softuni.bg/certificates/details/140773/8e8ea99c"> Link</a> |
 | <a href="https://softuni.bg/trainings/3850/mysql-september-2022"> MySQL </a>       | <a href="https://softuni.bg/certificates/details/142518/9d4bf745"> Link</a> |
-| <a href="https://softuni.bg/trainings/3852/spring-data-october-2022"> Spring Data </a>       |
+| <a href="https://softuni.bg/trainings/3852/spring-data-october-2022"> Spring Data </a>       |  <a href="https://softuni.bg/certificates/details/150193/a58042d1"> Link</a> 
 </td>
 
 
