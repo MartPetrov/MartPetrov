@@ -6,7 +6,7 @@ Hello 📢, I'm Martin Petrov
 
 # <p align="center"> Courses from the main program in SoftUni <p>
 
-<img src = "https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_Software_University_%28SoftUni%29_-_blue.png" width="200" height="200" alt ="Logo Title Text 2"/>   
+<img src = "https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_Software_University_%28SoftUni%29_-_blue.png" text-align=center width="200" height="200" alt ="Logo Title Text 2"/>   
 
 <br/>
 <br/>
