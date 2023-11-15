@@ -8,7 +8,7 @@ Hello 📢, I'm Martin Petrov
 
 <a href="https://softuni.bg/trainings/courses" rel="Courses"> ![SoftUni logo][logo] </a>
 
-[logo]: https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_Software_University_%28SoftUni%29_-_blue.png "Logo Title Text 2"
+[logo]: (https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_Software_University_%28SoftUni%29_-_blue.png = 250x250)"Logo Title Text 2"
 
 <br/>
 <br/>
