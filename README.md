@@ -2,7 +2,7 @@
 Hello 📢, I'm Martin Petrov
 ===========================
 
-#### Learning for Java Web Developer at SoftUni - Sofia
+#### Java Web Developer
 
 # <p align="center"> Courses from the main program in SoftUni <p>
 
