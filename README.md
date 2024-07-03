@@ -1,19 +1,9 @@
-Hello 📢, I'm Martin Petrov
-===========================
+##### Hello 📢, I'm Martin Petrov
 
-#### Java Web Developer
+###### Java Web Developer
 
-# <p align="center"> Courses  in SoftUni <img src = "https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_Software_University_%28SoftUni%29_-_blue.png" class="center" text-align=center width="200" height="200" alt ="Logo Title Text 2"/><p>
+### <p align="center"> Courses  in SoftUni <img src = "https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_Software_University_%28SoftUni%29_-_blue.png" text-align=center width="75" height="75" alt ="Logo Title Text 2"/><p>
 
-<code><style>
-.center {
-  /* display: block; */
-  margin-left: auto;
-  margin-right: auto;
-  width: 1em;
-  height: 1em;
-}
-</style></code>
 
 <table>
   <tr>
