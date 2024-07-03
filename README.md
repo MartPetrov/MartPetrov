@@ -2,7 +2,7 @@
 
 ###### Java Web Developer
 
-### <p align="center"> Courses  in SoftUni <img src = "https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_Software_University_%28SoftUni%29_-_blue.png" text-align=center width="75" height="75" alt ="Logo Title Text 2"/><p>
+### <p> Courses  in <img src = "https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_Software_University_%28SoftUni%29_-_blue.png" text-align=center width="75" height="75" alt ="Logo Title Text 2"/><p>
 
 
 <table>
@@ -36,6 +36,21 @@
   </td>
   </tr>
 </table>
+
+### <p> Courses  in <img src = "https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" text-align=center width="120" height="30" alt ="Logo Title Text 2"/><p>
+
+<table>
+  <td>
+
+| **Course**                                                            |
+| --------------------------------------------------------------------- |
+| <a href="https://www.udemy.com/course/java-the-complete-java-developer-course"> Java-The-Complete-Java-Developer-Course </a>           |
+| <a href="https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job"> Linux-Training </a> |
+| <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp"> Complete-Web-Dev-Bootcamp </a>                                               |
+| <a href="https://www.udemy.com/course/cucumber-selenium-java-develop-a-framework-in-25-hours"> Selenium-Framework </a>|
+
+  </td>
+  </table>
 
 ### My all actual Certificates you can found in cloud: 
 <a href="https://drive.google.com/drive/folders/1wc-Fp55sQIBlDa8tC51AefjmvB7Zduby?usp=sharing">
